@@ -1,3 +1,5 @@
 .env
 salida
 .venv
+
+__pycache__
